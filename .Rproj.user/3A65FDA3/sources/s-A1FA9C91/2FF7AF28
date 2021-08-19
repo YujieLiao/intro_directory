@@ -1,0 +1,27 @@
+{
+    "id": "2FF7AF28",
+    "path": "~/intro_directory/intro to r.R",
+    "project_path": "intro to r.R",
+    "type": "r_source",
+    "hash": "1113515111",
+    "contents": "",
+    "dirty": false,
+    "created": 1629205494906.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "80,0",
+        "scrollLine": "71"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1629400473,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1629400473340,
+    "read_only": false,
+    "read_only_alternatives": []
+}
