@@ -116,6 +116,7 @@ mean_scaler <- function(numbers, center = TRUE) {
   return(result)
 }
 
+x<-1:10
 
 
 
