@@ -119,6 +119,7 @@ mean_scaler <- function(numbers, center = TRUE) {
 x<-1:10
 y<-2:11
 
+#cd folder path/ git add "file path"/git commit -m "..."/git status/git push "url"#
 
 
 
